@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BlocoDeNotasWinFormsApp1/1.0.0": {
+        "runtime": {
+          "BlocoDeNotasWinFormsApp1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BlocoDeNotasWinFormsApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

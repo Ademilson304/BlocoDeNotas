@@ -1,0 +1,17 @@
+C:\Users\aluno.cad\source\repos\BlocoDeNotasWinFormsApp1\BlocoDeNotasWinFormsApp1\bin\Debug\net8.0-windows\BlocoDeNotasWinFormsApp1.exe
+C:\Users\aluno.cad\source\repos\BlocoDeNotasWinFormsApp1\BlocoDeNotasWinFormsApp1\bin\Debug\net8.0-windows\BlocoDeNotasWinFormsApp1.deps.json
+C:\Users\aluno.cad\source\repos\BlocoDeNotasWinFormsApp1\BlocoDeNotasWinFormsApp1\bin\Debug\net8.0-windows\BlocoDeNotasWinFormsApp1.runtimeconfig.json
+C:\Users\aluno.cad\source\repos\BlocoDeNotasWinFormsApp1\BlocoDeNotasWinFormsApp1\bin\Debug\net8.0-windows\BlocoDeNotasWinFormsApp1.dll
+C:\Users\aluno.cad\source\repos\BlocoDeNotasWinFormsApp1\BlocoDeNotasWinFormsApp1\bin\Debug\net8.0-windows\BlocoDeNotasWinFormsApp1.pdb
+C:\Users\aluno.cad\source\repos\BlocoDeNotasWinFormsApp1\BlocoDeNotasWinFormsApp1\obj\Debug\net8.0-windows\BlocoDeNotasWinFormsApp1.Form1.resources
+C:\Users\aluno.cad\source\repos\BlocoDeNotasWinFormsApp1\BlocoDeNotasWinFormsApp1\obj\Debug\net8.0-windows\BlocoDeNotasWinFormsApp1.csproj.GenerateResource.cache
+C:\Users\aluno.cad\source\repos\BlocoDeNotasWinFormsApp1\BlocoDeNotasWinFormsApp1\obj\Debug\net8.0-windows\BlocoDeNotasWinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno.cad\source\repos\BlocoDeNotasWinFormsApp1\BlocoDeNotasWinFormsApp1\obj\Debug\net8.0-windows\BlocoDeNotasWinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\aluno.cad\source\repos\BlocoDeNotasWinFormsApp1\BlocoDeNotasWinFormsApp1\obj\Debug\net8.0-windows\BlocoDeNotasWinFormsApp1.AssemblyInfo.cs
+C:\Users\aluno.cad\source\repos\BlocoDeNotasWinFormsApp1\BlocoDeNotasWinFormsApp1\obj\Debug\net8.0-windows\BlocoDeNotasWinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\aluno.cad\source\repos\BlocoDeNotasWinFormsApp1\BlocoDeNotasWinFormsApp1\obj\Debug\net8.0-windows\BlocoDeNotasWinFormsApp1.dll
+C:\Users\aluno.cad\source\repos\BlocoDeNotasWinFormsApp1\BlocoDeNotasWinFormsApp1\obj\Debug\net8.0-windows\refint\BlocoDeNotasWinFormsApp1.dll
+C:\Users\aluno.cad\source\repos\BlocoDeNotasWinFormsApp1\BlocoDeNotasWinFormsApp1\obj\Debug\net8.0-windows\BlocoDeNotasWinFormsApp1.pdb
+C:\Users\aluno.cad\source\repos\BlocoDeNotasWinFormsApp1\BlocoDeNotasWinFormsApp1\obj\Debug\net8.0-windows\BlocoDeNotasWinFormsApp1.genruntimeconfig.cache
+C:\Users\aluno.cad\source\repos\BlocoDeNotasWinFormsApp1\BlocoDeNotasWinFormsApp1\obj\Debug\net8.0-windows\ref\BlocoDeNotasWinFormsApp1.dll
+C:\Users\aluno.cad\source\repos\BlocoDeNotasWinFormsApp1\BlocoDeNotasWinFormsApp1\obj\Debug\net8.0-windows\BlocoDeNotasWinFormsApp1.Properties.Resources.resources
